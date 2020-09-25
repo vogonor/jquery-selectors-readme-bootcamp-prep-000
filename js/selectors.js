@@ -7,7 +7,7 @@ function paragraphSelector() {
 function lastImageSelector() {
   
  var lastImage =  $("img:last")
- return lastImageSelector
+ return lastImage
   
 }
 
@@ -25,6 +25,6 @@ function divSelector() {
 
 function firstListItem() {
   
-  var firstLiTtem = $("")
+  var firstLiTtem = $("li:first-child")
 }
 
