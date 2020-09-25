@@ -22,9 +22,3 @@ function divSelector() {
   var divsWithPics = $(".pics")
   return divsWithPics
 }
-
-
-()
-
-
-
