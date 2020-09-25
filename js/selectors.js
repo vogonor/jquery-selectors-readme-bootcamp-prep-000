@@ -14,6 +14,16 @@ function lastImageSelector() {
 function ninjaBabySelector() {
   
   var babyNinja = $("#baby-ninja")
+  
+  return babyNinja
 }
 
-function divSelector()
+function divSelector() {
+  $
+}
+
+
+
+
+
+
