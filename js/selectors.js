@@ -22,3 +22,9 @@ function divSelector() {
   var divsWithPics = $(".pics")
   return divsWithPics
 }
+
+function firstListItem() {
+  
+  var firstLiTtem = $("")
+}
+
