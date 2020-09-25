@@ -6,10 +6,13 @@ function paragraphSelector() {
 
 function lastImageSelector() {
   
-  $("img:last")
+ var lastImage =  $("img:last")
+ return lastImageSelector
+  
 }
 
 function ninjaBabySelector() {
   
-  $(#)
+  var babyNinja = $("#baby-ninja")
 }
+
