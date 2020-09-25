@@ -26,5 +26,7 @@ function divSelector() {
 function firstListItem() {
   
   var firstLiTtem = $("#pic-list:first-child")
+  
+  return firstListItem
 }
 
