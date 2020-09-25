@@ -4,4 +4,7 @@ function paragraphSelector() {
   return pElements
 }
 
-function 
+function lastImageSelector() {
+  
+  $("img:last")
+}
