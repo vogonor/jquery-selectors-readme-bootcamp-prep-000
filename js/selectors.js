@@ -19,11 +19,12 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  $
+  var divsWithPics = $(".pics")
+  return divsWithPics
 }
 
 
-
+()
 
 
 
